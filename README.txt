@@ -9,6 +9,3 @@ conda activate snakemake
 snakemake -s snakefile --use-singularity --cores <n>
 
 
---------------------------------------------
-
-Le dossier "dockerfiles" contient les recettes que nous avons écrit nous même et utilisé dans le workflow.
